@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsugar_cli_core.a CMakeFiles/sugar_cli_core.dir/src/conversion.cpp.o
-/usr/bin/ranlib libsugar_cli_core.a

@@ -1,7 +1,0 @@
-add_test([=[ConversionTest.MmolToMgdl_1_1_is_20]=]  /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test/run_tests [==[--gtest_filter=ConversionTest.MmolToMgdl_1_1_is_20]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ConversionTest.MmolToMgdl_1_1_is_20]=]  PROPERTIES WORKING_DIRECTORY /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[ConversionTest.MmolToMgdl_10_6_is_191]=]  /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test/run_tests [==[--gtest_filter=ConversionTest.MmolToMgdl_10_6_is_191]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ConversionTest.MmolToMgdl_10_6_is_191]=]  PROPERTIES WORKING_DIRECTORY /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[ConversionTest.MmolToMgdl_6_6_is_119]=]  /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test/run_tests [==[--gtest_filter=ConversionTest.MmolToMgdl_6_6_is_119]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ConversionTest.MmolToMgdl_6_6_is_119]=]  PROPERTIES WORKING_DIRECTORY /home/javier/Projects/sugar-cli/sugar-cli-cpp/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  run_tests_TESTS ConversionTest.MmolToMgdl_1_1_is_20 ConversionTest.MmolToMgdl_10_6_is_191 ConversionTest.MmolToMgdl_6_6_is_119)
