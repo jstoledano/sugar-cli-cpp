@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test_conversion.cpp.o -o run_tests  ../libsugar_cli_core.a ../lib/libgtest_main.a ../lib/libgtest.a 

@@ -1,0 +1,48 @@
+.
+├── build
+│   ├── bin
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.28.3
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── pkgRedirects
+│   │   ├── Progress
+│   │   ├── progress.marks
+│   │   ├── sugar_cli_core.dir
+│   │   ├── sugar-cli-cpp.dir
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── _deps
+│   │   ├── googletest-build
+│   │   ├── googletest-src
+│   │   └── googletest-subbuild
+│   ├── lib
+│   │   ├── libgmock.a
+│   │   ├── libgmock_main.a
+│   │   ├── libgtest.a
+│   │   └── libgtest_main.a
+│   ├── libsugar_cli_core.a
+│   ├── Makefile
+│   ├── sugar-cli-cpp
+│   └── test
+│       ├── CMakeFiles
+│       ├── cmake_install.cmake
+│       ├── CTestTestfile.cmake
+│       ├── Makefile
+│       └── run_tests[1]_include.cmake
+├── CMakeLists.txt
+├── src
+│   ├── conversion.cpp
+│   ├── include
+│   │   └── conversion.hpp
+│   └── main.cpp
+├── test
+│   ├── CMakeLists.txt
+│   └── test_conversion.cpp
+└── tree.exe
+
+19 directories, 27 files

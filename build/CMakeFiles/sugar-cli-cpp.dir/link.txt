@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/sugar-cli-cpp.dir/src/main.cpp.o" -o sugar-cli-cpp  libsugar_cli_core.a 
